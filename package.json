@@ -3,6 +3,8 @@
     "displayName": "Monokai Remastered High Contrast",
     "description": "A high contrast Monokai-inspired editor theme for Visual Studio Code",
     "version": "0.0.1",
+    "publisher": "joelove",
+    "repository": "git@github.com:joelove/monokai-remastered-high-contrast.git",
     "engines": {
         "vscode": "^1.35.0"
     },
