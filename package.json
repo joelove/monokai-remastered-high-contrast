@@ -1,0 +1,21 @@
+{
+    "name": "monokai-remastered-high-contrast",
+    "displayName": "Monokai Remastered High Contrast",
+    "description": "A high contrast Monokai-inspired editor theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Remastered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Remastered-color-theme.json"
+            }
+        ]
+    }
+}
